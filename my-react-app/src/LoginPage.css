@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.text-right{
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#register-button{
+    margin: 0px;
+}

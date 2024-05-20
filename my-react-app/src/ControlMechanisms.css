@@ -1,0 +1,28 @@
+.control-mechanisms {
+    margin-bottom: 20px;
+  }
+  
+  .pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .list-group-item {
+    padding: 15px;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f8f9fa;
+  }
+  
+  .form-check-inline {
+    margin-right: 10px;
+  }
+
+  .control-mechanisms-form{
+    display: flex;
+  }
+  .control-mechanisms-option{
+    margin-right: 10px;
+  }

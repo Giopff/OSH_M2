@@ -1,0 +1,59 @@
+.dangers-table {
+    margin-bottom: 20px;
+  }
+  
+  .dangers-table .card-body {
+    padding: 20px;
+  }
+  
+  .dangers-table table {
+    width: 100%;
+    margin-bottom: 0;
+  }
+  
+  .dangers-table th {
+    background-color: #f8f9fa;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .dangers-table th,
+  .dangers-table td {
+    padding: 12px;
+  }
+  
+  .mechanism-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+  }
+  
+  .mechanism-fields {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .mechanism-fields .form-group {
+    flex: 1;
+  }
+  
+  .mechanism-fields .form-label {
+    font-weight: bold;
+  }
+  
+  .mechanism-fields .text-danger {
+    font-size: 18px;
+  }
+
+  .additional-mechanism-card{
+    background-color: 	#f72c259b
+  }
+
+  .dangers-table  {
+    /* width: 100vw; */
+  }
+  
+ 
